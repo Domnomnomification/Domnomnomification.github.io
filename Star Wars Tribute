@@ -1,0 +1,47 @@
+<!-- Credits and sources at end of code! -->
+<!DOCTYPE html>
+<head>
+<script>
+	#h {
+    color: #4bd5ee;
+  }
+  #p {
+    color: #fcdf2b;
+    font-family: "FranklinGothicDemiRegular", sans-serif;
+  	text-align: center;
+  	font-size: 14px;
+  }
+</script>
+<img src="http://logodatabases.com/wp-content/uploads/2012/03/starwars-logo.png" alt="The Famous Logo" width="700px" height="400px" vspace="50px" hspace="50px"> </img> <h3 class="h">A Star Wars Tribute Page</h3>
+
+<p id="p">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sagittis consectetur iaculis. Vestibulum sodales, nunc et ultricies lobortis, mauris ipsum dignissim enim, eu vulputate arcu purus id metus. Aliquam erat volutpat. Fusce posuere ligula nisl, ac malesuada nunc lobortis vitae. Phasellus consectetur finibus venenatis. Nulla finibus ullamcorper semper. Aenean tristique dui quam, nec suscipit massa vehicula eget.
+<br>
+  <br>
+Quisque vehicula vehicula fringilla. Aenean vestibulum ullamcorper massa nec finibus. Curabitur nec sapien in orci porta malesuada sit amet sed sapien. Proin tincidunt, lacus eu posuere sagittis, leo risus pellentesque nisi, a eleifend massa erat sed enim. Sed sagittis, felis et pharetra accumsan, est augue porta ante, sit amet porta diam est in nisl. Ut ut efficitur odio. Suspendisse convallis, enim ac sagittis ullamcorper, orci neque scelerisque ipsum, eu molestie ipsum arcu a diam. Praesent eu eleifend urna. Phasellus accumsan risus sit amet risus malesuada interdum. Nam non ullamcorper quam. Cras viverra condimentum felis, sit amet tempus neque sodales eget.
+<br>
+  <br>
+Etiam malesuada ullamcorper libero, eget tempor metus venenatis venenatis. Donec ut erat et nisl efficitur dapibus a lobortis purus. Vestibulum eget odio eu purus mollis aliquam eu eu tortor. Vivamus non mauris ex. Proin laoreet lacus sit amet mi rhoncus, sed commodo risus blandit. Pellentesque faucibus consectetur ipsum eget tincidunt. Curabitur orci urna, facilisis sed auctor id, pretium sit amet leo. Sed dictum non justo congue rhoncus. Aliquam hendrerit facilisis tempor. Nulla facilisi. Curabitur sit amet vestibulum lorem. Maecenas urna quam, ornare a fringilla quis, mattis vel mi.
+<br>
+  <br>
+Donec lobortis pulvinar augue nec laoreet. Pellentesque faucibus eget purus eu porta. Nunc in massa at libero rhoncus malesuada. Phasellus porta tempor turpis a rhoncus. Nullam in nulla sed felis lobortis suscipit. Curabitur interdum lectus sapien, a maximus augue pharetra vel. Aliquam a congue nibh. Pellentesque vel volutpat diam. Sed nec tellus sollicitudin, efficitur tellus non, semper est. Ut euismod ligula eu erat congue, vel finibus nulla egestas. Mauris lacinia erat in augue lobortis, id molestie ante lobortis. Integer finibus arcu nulla, sed molestie mi accumsan a. Aenean suscipit libero vitae arcu cursus, ut iaculis nulla imperdiet. Sed odio lectus, iaculis interdum massa et, maximus lobortis velit. Maecenas scelerisque urna est, et bibendum sem maximus faucibus.
+<br>
+  <br>
+Etiam in vulputate tortor, et eleifend nulla. Nunc elementum ex vel lorem ultrices pharetra. Integer a aliquet quam. Ut facilisis diam eu quam dapibus, vitae eleifend justo accumsan. Ut in tempus dui, eget venenatis ante. Nulla elit augue, eleifend at porttitor ac, hendrerit eget neque. Phasellus faucibus ullamcorper justo vel laoreet. </p>
+<a href="https://en.wikipedia.org/wiki/Star_Wars" target="_blank">Wikipedia Page</a> for more information and shit
+</head>
+
+<!-- use target="_blank" for anchor tag so that it opens a new tab -->
+
+<!-- 
+Images used:
+background image: http://experiments.gesteves.com/background.png
+Taken from http://experiments.gesteves.com/starwars.html by Guillermo Esteves
+Found at https://www.gesteves.com/
+
+
+
+
+
+
+
+-->
